@@ -1,0 +1,9 @@
+Things to buy at the grocery store:
+
+[ ] Bananas (around 4)
+[ ] Chicken broth
+[ ] Cottage Cheese
+[ ] Frozen yogurt
+[X] Sunflower seeds
+[ ] Soya sauce
+[ ] Mayonnaise
